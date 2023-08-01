@@ -9,9 +9,10 @@ The app was made to help people clean junk from their smartphones, freeing up me
 * Improves performance in games.
 
 # Screenshots
-![Screenshot_20230801_200214](https://github.com/DiegoGehrke/SmartClean---Phone-Cleaner/assets/76628949/45a33ff2-b791-42a0-9cee-07fbac18e9ac)
-![Screenshot_20230801_200352](https://github.com/DiegoGehrke/SmartClean---Phone-Cleaner/assets/76628949/d5b35eb4-8b31-4b66-ab06-5ff845e1cd75)
-![Screenshot_20230801_200411](https://github.com/DiegoGehrke/SmartClean---Phone-Cleaner/assets/76628949/d184df33-9f09-47cc-950f-3e51e028322f)
+![homescreen](https://github.com/DiegoGehrke/SmartClean---Phone-Cleaner/assets/76628949/66f24210-8347-45a5-a5bf-ffd77c193bd7)
 
 
+![manageappsscreen](https://github.com/DiegoGehrke/SmartClean---Phone-Cleaner/assets/76628949/f69449bc-fe38-46e5-a500-d690d8cf589e)
 
+
+![managebatteryscreen](https://github.com/DiegoGehrke/SmartClean---Phone-Cleaner/assets/76628949/f955370d-4321-4d84-98ec-f21348f18fa3)
